@@ -84,3 +84,18 @@ export const socials = [
       url: "#",
     }
   ];
+
+export const VideoEmbedUrls = [
+    {
+        itemurl: "https://www.youtube.com/embed/qk8PSrd-RTE?si=vsY2Ya_KgJS89Voh"
+    },
+    {
+        itemurl: "https://www.youtube.com/embed/s8BQ5Suab6Y?si=p7FSKc0KIKtegImk"
+    },
+    {
+        itemurl: "https://www.youtube.com/embed/T-p6Zam0YmQ?si=0qsyT79kLbLJPMqP"
+    },
+    {
+        itemurl: "https://www.youtube.com/embed/bzE62q2cb-k?si=gumYWTViOAdoXBPM"
+    }
+]

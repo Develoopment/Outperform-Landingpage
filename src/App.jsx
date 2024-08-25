@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import About from "./components/About"
 import Services from "./components/Services"
 import Youtube from "./components/Youtube"
+import YoutubeGrid from "./components/YoutubeGrid"
 import Contact from "./components/Contact"
 import Footer from "./components/Footer"
 
@@ -15,7 +16,8 @@ function App() {
       <div className="px-10">
         <Hero />
         <About />
-        <Youtube />
+        {/* <Youtube /> */}
+        <YoutubeGrid />
         <Services />
         <Contact />
 
