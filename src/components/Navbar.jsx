@@ -16,9 +16,8 @@ const Navbar = () => {
 
   return (
 
-    <div className=' border border-red-500 relative top-10 py-3 mb-20 bg-bgblack z-10'>
+    <div className='relative top-10 py-3 mb-20 bg-bgblack z-10'>
         <nav className={`
-        border
         px-8
         flex justify-between items-center`}
         >
