@@ -1,0 +1,6 @@
+- Add scroll lock when menu is open on mobile devices
+
+- Ask Marvin how to get the Clickconvert subscribe email component (change that part of the hero section)
+- Change hero section image and reach out icons to high quality images (download from Figma)
+- Add the actual outgoing urls to the contact array in constants.jsx
+- Add the proper icons for the footer
