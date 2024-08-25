@@ -16,14 +16,15 @@ const Navbar = () => {
 
   return (
 
-    <div className='relative top-10 py-3 mb-20 bg-bgblack z-10'>
+    <div className=' border border-red-500 relative top-10 py-3 mb-20 bg-bgblack z-10'>
         <nav className={`
+        border
         px-8
         flex justify-between items-center`}
         >
             
             {/* logo */}
-            <div className='w-[80px]'>
+            <div className='w-[80px] h-[80px]'>
                 <a className="text-3xl font-bold leading-none" href="#">
                     <img src={logo} className="h-full" alt="logo" />
                 </a>
